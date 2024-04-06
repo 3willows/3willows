@@ -1,7 +1,5 @@
 Hi!  I am a frontend developer in React and Typescript.
-<br/>
-<br/>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
 <br/>
 <br/>
 Here you can see some of my projects, all of which I am tinkering over:
@@ -12,3 +10,6 @@ Here you can see some of my projects, all of which I am tinkering over:
 - [Bar Admission Bundle](https://3willows.github.io/barAdmission/):Online template for Hong Kong pupil barristers
 
 You can also take a look at my notes on learning Javascript and Typescript in this Github-hosted [blog](https://3willows.github.io).
+<br/>
+<br/>
+Any questions, feel free to contact me on [linkedin](https://www.linkedin.com/in/jasper-wong-swe/).
