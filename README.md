@@ -13,7 +13,7 @@ Some past projects:
 (Not under active development)
 - [John Selden's Table-talk](https://3willows.github.io/johnSeldenTableTalk/): Mobile friendly 17th century e-book with only vanilla HTML and CSS
 - [Book of Spells](https://3willows.github.io/BookOfSpells/): Simple Harry Potter spells quiz
+<br>
 
-<br/>
-<br/>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+<!---do not remove space above, it will affect the image display -->
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasper-wong-swe/)
