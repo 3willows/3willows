@@ -17,3 +17,30 @@ Some past projects:
 
 <!---do not remove space above, it will affect the image display -->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasper-wong-swe/)
+
+```yaml
+{ fullName: "Jasper Wong",
+  usernames: ["3willows", "RubberCapybara"],
+  education: [
+  "Bachelors in Law - Cambrridge University",
+  "StackOverflow"
+  ],
+  fieldsOfInterest: [
+  "Web Development"
+  ],
+  currentlyLearning: [
+  "MongoDB"
+  ],
+  goalsForThisYear: [
+  "Release v.1.0.0 of html-css-export-word"
+  ],
+  socialMedia: [
+  "LinkedIn - my life"
+  ]
+  hobbies: [
+  "Recorder",
+  "Juggling",
+  "Chinese Chess"
+  ]}
+
+```
