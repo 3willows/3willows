@@ -26,7 +26,8 @@ Some past projects:
   "StackOverflow"
   ],
   fieldsOfInterest: [
-  "Web Development"
+  "Web Development",
+  "Open Source"
   ],
   currentlyLearning: [
   "MongoDB"
@@ -41,6 +42,11 @@ Some past projects:
   "Recorder",
   "Juggling",
   "Chinese Chess"
-  ]}
+  ],
+  ReadmeInspiredBy: [
+  "https://github.com/adamalrasi/adamalrasi",
+  "https://github.com/sam98963/sam98963"
+  ]
+}
 
 ```
