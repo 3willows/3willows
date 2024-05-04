@@ -43,7 +43,7 @@ Some past projects:
   "Juggling",
   "Chinese Chess"
   ],
-  ReadmeInspiredBy: [
+  readmeInspiredBy: [
   "https://github.com/adamalrasi/adamalrasi",
   "https://github.com/sam98963/sam98963"
   ]
