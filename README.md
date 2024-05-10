@@ -11,8 +11,8 @@ Some past projects:
 - [Quick Affirmation](https://3willows.github.io/quickAffirmation/): Online bilingual template (Chinese/English)
 
 (Not under active development)
-- [John Selden's Table-talk](https://3willows.github.io/johnSeldenTableTalk/): Mobile friendly 17th century e-book with only vanilla HTML and CSS
 - [Book of Spells](https://3willows.github.io/BookOfSpells/): Simple Harry Potter spells quiz
+- [John Selden's Table-talk](https://3willows.github.io/johnSeldenTableTalk/): Mobile friendly 17th century e-book (archived)
 <br>
 
 <!---do not remove space above, it will affect the image display -->
