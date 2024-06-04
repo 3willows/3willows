@@ -1,6 +1,6 @@
 Hi!  I am a full-stack developer (Javascript/MERN).  You can read about my journey into web development in the 2020s [here](https://3willows.github.io).
 
-Currently focused on building [html-css-export-word](https://github.com/3willows/html-css-export-word), an [npm package](https://www.npmjs.com/package/html-css-export-word) offering a rough and ready way to convert CSS-styled HTML to Word.  For my research into similiar tools already in existence, see this [StackOverflow answer](https://stackoverflow.com/a/78373506/19767032).
+Recent projects include [html-css-export-word](https://github.com/3willows/html-css-export-word), an [npm package](https://www.npmjs.com/package/html-css-export-word) offering a rough and ready way to convert CSS-styled HTML to Word.  For my research into similiar tools already in existence, see this [StackOverflow answer](https://stackoverflow.com/a/78373506/19767032).
 
 Here is a quick [interactive demo](https://3willows.github.io/html-css-export-word-demo/).
 
@@ -11,7 +11,7 @@ https://github.com/3willows/3willows/assets/111284156/2028ef45-ed18-4fbc-b420-2e
 Some other projects:
 
 (Under active development)
-- [Bar Admission Bundle](https://3willows.github.io/barAdmission/): Online template for Hong Kong pupil barristers
+- [Bar Admission Bundle](https://3willows.github.io/barAdmission/): generate correctly formatted legal Word documents online (starting with papers for lawyers' admission).
 
 (Not under active development)
 - [Quick Affirmation](https://3willows.github.io/quickAffirmation/): Online bilingual template (Chinese/English)
