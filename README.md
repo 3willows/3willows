@@ -13,9 +13,9 @@ https://github.com/3willows/3willows/assets/111284156/2028ef45-ed18-4fbc-b420-2e
 
 Some other projects:
 
-- [Quick Affirmation](https://3willows.github.io/quickAffirmation/): Online bilingual template (Chinese/English)
 - [Book of Spells](https://3willows.github.io/BookOfSpells/): Simple Harry Potter spells quiz
-- [John Selden's Table-talk](https://3willows.github.io/johnSeldenTableTalk/): Mobile friendly 17th century e-book (archived)
+- [Quick Affirmation](https://3willows.github.io/quickAffirmation/): Online bilingual template (Chinese/English)
+- [John Selden's Table-talk](https://3willows.github.io/johnSeldenTableTalk/): Mobile friendly 17th century e-book
 <br>
 
 <!---do not remove space above, it will affect the image display -->
