@@ -1,6 +1,4 @@
-Hi!  I am a full-stack developer (Javascript/MERN).
-
-Recent projects include:
+Hi!  I am a frontend engineer (MERN).  Recent projects include:
 
 - [Bar Admission Bundle](https://3willows.github.io/barAdmission/): generate correctly formatted legal Word documents online (starting with papers for lawyers' admission).
 - [html-css-export-word](https://github.com/3willows/html-css-export-word), an [npm package](https://www.npmjs.com/package/html-css-export-word) offering a rough and ready way to convert CSS-styled HTML to Word.  Cf. this [StackOverflow answer](https://stackoverflow.com/a/78373506/19767032) on similiar tools in existence.
@@ -25,8 +23,10 @@ Some other projects:
 { fullName: "Jasper Wong",
   usernames: ["3willows", "RubberCapybara"],
   education: [
-  "Bachelors in Law - Cambrridge University",
-  "StackOverflow"
+  "BA - Cambridge University",
+  "StackOverflow".
+  "Philosophy",
+  "Law"
   ],
   fieldsOfInterest: [
   "Web Development",
@@ -39,7 +39,7 @@ Some other projects:
   "Release v.1.0.0 of html-css-export-word"
   ],
   socialMedia: [
-  "LinkedIn - my life"
+  "LinkedIn"
   ]
   hobbies: [
   "Recorder",
