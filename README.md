@@ -1,5 +1,7 @@
 Hi!  I am currently exploring Next + Supabase stack.
 
+[Technical blog](https://3willows.github.io/)
+
 Past projects:-
 
 - [Book of Spells](https://3willows.github.io/BookOfSpells/): Simple Harry Potter spells quiz
