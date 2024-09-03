@@ -1,4 +1,4 @@
-Hi!  I am a frontend engineer, currently exploring Next.js + Supabase.
+Hi!  I am currently exploring Next + Supabase stack.
 
 Past projects:-
 
