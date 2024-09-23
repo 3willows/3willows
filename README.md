@@ -1,4 +1,7 @@
-Hi!  I am currently exploring Next + Supabase stack.
+Hi!  I am currently working on:-
+
+- [my portfolio website](https://jasper-projects.hobbesfree.io/)
+- [a UI to send prompts to 2 LLMs at once](https://github.com/3willows/two_llms_at_once)
 
 [Technical blog](https://3willows.github.io/)
 
