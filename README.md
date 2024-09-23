@@ -3,7 +3,7 @@ Currently working on:
 - [my portfolio website](https://jasper-projects.hobbesfree.io/)
 - [a UI to send prompts to 2 LLMs at once](https://github.com/3willows/two_llms_at_once)
 
-Usually I write up how I did things in a [technical blog](https://3willows.github.io/).
+Usually I write up how I did things [here](https://3willows.github.io/).
 
 Past interests
 
