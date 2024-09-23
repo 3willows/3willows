@@ -5,7 +5,7 @@ Currently working on:
 
 Usually I write up how I did things in a [technical blog](https://3willows.github.io/).
 
-Past projects:-
+Past interests
 
 - [Book of Spells](https://3willows.github.io/BookOfSpells/): Simple Harry Potter spells quiz
 - [Quick Affirmation](https://3willows.github.io/quickAffirmation/): Online bilingual template (Chinese/English)
