@@ -1,4 +1,4 @@
-Currently working on:
+Currently working in the Vercel eco-system, e.g.
 
 - [my portfolio website](https://jasper-projects.hobbesfree.io/)
 - [a UI to send prompts to 2 LLMs at once](https://github.com/3willows/two_llms_at_once)
