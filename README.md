@@ -1,7 +1,7 @@
 Currently working in the Vercel eco-system, e.g.
 
-- [my portfolio website](https://jasper-projects.hobbesfree.io/)
-- [a UI to send prompts to 2 LLMs at once](https://github.com/3willows/two_llms_at_once)
+- [my portfolio website](https://jasper-portfolio-seven.vercel.app/)
+- [a UI to send prompts to 2 LLMs at once](https://two-llms-at-once.vercel.app/)
 
 Usually I write up how I did things [here](https://3willows.github.io/).
 
