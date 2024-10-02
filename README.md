@@ -1,16 +1,10 @@
-Using Next and Supabase to explore various datasets.  Currently working on:-
+Using Next and Supabase on various [projects](https://jasper-portfolio-seven.vercel.app/).  Currently working on:-
 
 - [Ask 2 LLMs at once](https://two-llms-at-once.vercel.app/)
 - [Chronology of a Judgment](https://chronology-of-a-judgment.hobbesfree.io/)
 
-[Portfolio website](https://jasper-portfolio-seven.vercel.app/)
-
 Past interests
 
-- [Book of Spells](https://3willows.github.io/BookOfSpells/): Simple Harry Potter spells quiz
-- [Quick Affirmation](https://3willows.github.io/quickAffirmation/): Online bilingual template (Chinese/English)
-- [John Selden's Table-talk](https://3willows.github.io/johnSeldenTableTalk/): Mobile friendly 17th century e-book
-- [Bar Admission Bundle](https://3willows.github.io/barAdmission/): generate correctly formatted papers for lawyers' admission in the browser.
-- [html-css-export-word](https://github.com/3willows/html-css-export-word), an [npm package](https://www.npmjs.com/package/html-css-export-word) offering a rough and ready way to convert CSS-styled HTML to Word.  Cf. this [StackOverflow answer](https://stackoverflow.com/a/78373506/19767032) on similiar tools in existence.  Here is a quick [interactive demo](https://3willows.github.io/html-css-export-word-demo/).
+- [html-css-export-word](https://github.com/3willows/html-css-export-word), an [npm package](https://www.npmjs.com/package/html-css-export-word) offering a rough and ready way to convert CSS-styled HTML to Word.  Cf. this [StackOverflow answer](https://stackoverflow.com/a/78373506/19767032) on similiar tools in existence. [Interactive demo](https://3willows.github.io/html-css-export-word-demo/)
 
 https://github.com/3willows/3willows/assets/111284156/2028ef45-ed18-4fbc-b420-2eef6c306244
