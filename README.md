@@ -1,9 +1,8 @@
-Currently working in the Vercel eco-system, e.g.
+Using Next and Supabase to explore various datasets.  Currently working on:-
 
-- [my portfolio website](https://jasper-portfolio-seven.vercel.app/)
-- [a UI to send prompts to 2 LLMs at once](https://two-llms-at-once.vercel.app/)
+- [Ask 2 LLMs at once](https://two-llms-at-once.vercel.app/)
 
-Usually I write up how I did things [here](https://3willows.github.io/).
+[Portfolio website](https://jasper-portfolio-seven.vercel.app/)
 
 Past interests
 
