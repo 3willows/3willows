@@ -1,6 +1,6 @@
 [Portfolio website](https://www.3willows.xyz/)
 
-Currently exploring [Find Case Law](https://caselaw.nationalarchives.gov.uk/) data with [Chronology of a Judgment](https://chronology-of-a-judgment.hobbesfree.io/)
+Currently exploring [Find Case Law](https://caselaw.nationalarchives.gov.uk/) data with [Chronology of a Judgment](https://two-llms.3willows.xyz/)
 
 Past interests
 
