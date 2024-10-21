@@ -1,6 +1,6 @@
 [Portfolio website](https://www.3willows.xyz/)
 
-Looking for collarborators on [Generate Chronology (Alpha)](https://delighted-corenda-none-yet-cbcb02c7.koyeb.app/).  For repo and write up see website above.
+Looking for collarborators on [Generate Chronology (Alpha)](https://delighted-corenda-none-yet-cbcb02c7.koyeb.app/).  [Repo](https://github.com/3willows/Generate-chronology-alpha).  [Write up](https://technical-blog.3willows.xyz/2024-10-21-generate-chronology-first-steps/).
 
 Past interests
 
