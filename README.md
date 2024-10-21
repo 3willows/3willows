@@ -1,6 +1,6 @@
 [Portfolio website](https://www.3willows.xyz/)
 
-Currently exploring [Find Case Law](https://caselaw.nationalarchives.gov.uk/) data with [Chronology of a Judgment](https://chronology.3willows.xyz/)
+Looking for collarborators on [Generate Chronology (Alpha)](https://delighted-corenda-none-yet-cbcb02c7.koyeb.app/).  For repo and write up see website above.
 
 Past interests
 
