@@ -1,9 +1,14 @@
-[Portfolio website](https://www.3willows.xyz/)
+Hi!  I am a lawyer making free software tools to make the lives of other lawyers easier.
 
-Looking for collarborators on [Generate Chronology (Alpha)](https://generate-chronology.3willows.xyz/).  [Repo](https://github.com/3willows/Generate-chronology-alpha).  [Write up](https://technical-blog.3willows.xyz/2024-10-21-generate-chronology-first-steps/).
+- [Generate Chronology](https://generate-chronology.3willows.xyz/).  Convert a paragraph-referenced Microsoft Word (.docx) document to a paragraph-referenced chronology.  [Source Code](https://github.com/3willows/Generate-chronology-alpha).
 
-Past interests
+- [Chronology of a Judgment](https://chronology.3willows.xyz/).  View recent UK judgments as a chronology, i.e. a paragraphed-referenced table of paragraphs mentioning a date.  [Source Code](https://github.com/3willows/Chronology-of-a-Judgment)
 
-- [html-css-export-word](https://github.com/3willows/html-css-export-word), an [npm package](https://www.npmjs.com/package/html-css-export-word) to convert CSS-styled HTML to Word.  [Interactive demo](https://3willows.github.io/html-css-export-word-demo/)
+In the pipelines:
 
-https://github.com/3willows/3willows/assets/111284156/2028ef45-ed18-4fbc-b420-2eef6c306244
+- Date calculator.  Tool to help lawyers calculate date to file documents as per relevant practice directions.
+- Affirmation online.  A browser interface to help draft an affirmation. 
+  
+For software developers
+
+- [html-css-export-word](https://github.com/3willows/html-css-export-word), a resusitated tool to convert CSS-styled HTML documents into a Word (.doc) document.  [Interactive demo](https://3willows.github.io/html-css-export-word-demo/)
