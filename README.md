@@ -4,7 +4,7 @@ Hi!  I am a lawyer making free software tools to make the lives of other lawyers
 
 - [Chronology of a Judgment](https://chronology.3willows.xyz/).  View recent UK judgments as a chronology, i.e. a paragraphed-referenced table of paragraphs mentioning a date.  [Source Code](https://github.com/3willows/Chronology-of-a-Judgment)
 
-In the pipelines:
+In the pipelines
 
 - Date calculator.  Tool to help lawyers calculate date to file documents as per relevant practice directions.
 - Affirmation online.  A browser interface to help draft an affirmation. 
