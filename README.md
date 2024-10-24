@@ -1,6 +1,6 @@
 Hi!  I am a lawyer making free software tools to make the lives of other lawyers easier.
 
-- [Generate Chronology](https://generate-chronology.3willows.xyz/).  Convert a paragraph-referenced Microsoft Word (.docx) document to a paragraph-referenced chronology.  [Source Code](https://github.com/3willows/Generate-chronology-alpha).
+- [Generate Chronology](https://generate-chronology.3willows.xyz/).  Convert a paragraph-referenced Microsoft Word (.docx) document to a paragraph-referenced chronology.  [Source Code](https://github.com/3willows/Generate-chronology-alpha)
 
 - [Chronology of a Judgment](https://chronology.3willows.xyz/).  View recent UK judgments as a chronology, i.e. a paragraphed-referenced table of paragraphs mentioning a date.  [Source Code](https://github.com/3willows/Chronology-of-a-Judgment)
 
